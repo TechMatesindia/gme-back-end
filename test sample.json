@@ -1,0 +1,139 @@
+[
+ {
+  "Questions": "Which of these equation is most applicable in Business,  in a very competitve market like we have today in most of the countries ?",
+  "A": "Cost + Profit = Price",
+  "B": "Price - Cost = Profit",
+  "C": "Price + Profit = Cost",
+  "D": "Price + Cost = Profit",
+  "Answer": "B"
+ },
+ {
+  "Questions": "A company is facing challenge of high rejection rate for one their leading prodct. Which of the following methodoly is most applicable to solve this problem :",
+  "A": "Just Do it",
+  "B": "Lean",
+  "C": "Six Sigma DMAIC",
+  "D": "Six Sigma DMADV",
+  "Answer": "C"
+ },
+ {
+  "Questions": "According to the new business reality, what is the best way to increase profits?",
+  "A": "Increase price",
+  "B": "Reduce price",
+  "C": "Increase cost",
+  "D": "Reduce costs",
+  "Answer": "D"
+ },
+ {
+  "Questions": "Lean Six Sigma Projects can be selected from",
+  "A": "Voice of Customer",
+  "B": "Voice of Business",
+  "C": "Voice of Process",
+  "D": "All of the above",
+  "Answer": "D"
+ },
+ {
+  "Questions": "Which of the 8 wastages defined in Lean , is considered to be the most deadly waste ?",
+  "A": "Waiting",
+  "B": "Excess Inventory",
+  "C": "Overproduction",
+  "D": "unutilized employee skills",
+  "Answer": "C"
+ },
+ {
+  "Questions": "Which methodology should be used to develop a new product or new process ",
+  "A": "Lean",
+  "B": "Six Sigma DMAIC",
+  "C": "Six Sigma DMADV",
+  "D": "Any of the above can be used",
+  "Answer": "C"
+ },
+ {
+  "Questions": "Value added\/ Non value added in a process,  is decideded keeping whose perspective in mind ? ",
+  "A": "Black Belt",
+  "B": "Project Leader",
+  "C": "Sponsor",
+  "D": "Customer",
+  "Answer": "D"
+ },
+ {
+  "Questions": "\"Who\" is considered as the \"Father of Six Sigma\" and he was from which organization ?",
+  "A": "Jack Welch, Motorola",
+  "B": " Jack welch , GE",
+  "C": "Bill Smith , GE",
+  "D": "Bill Smith , Motorola",
+  "Answer": "D"
+ },
+ {
+  "Questions": "Critical to Quality (CTQ) are derived from which of the following?",
+  "A": "Project Charter",
+  "B": "Voice of Customer",
+  "C": "Key Stakeholders",
+  "D": "Sponsor",
+  "Answer": "B"
+ },
+ {
+  "Questions": "Financial benefits assessments are usually computed for which duration?",
+  "A": "One month",
+  "B": "Three months",
+  "C": "One Year",
+  "D": "Three Years",
+  "Answer": "C"
+ },
+ {
+  "Questions": "A Six Sigma project results in a savings of $20K\/month and a one-time project expense of $50K. What are the benefits that can be claimed for this project?",
+  "A": "$240 K",
+  "B": "$50K",
+  "C": "190K",
+  "D": "$20K",
+  "Answer": "C"
+ },
+ {
+  "Questions": "A goal statement should NOT contain which of the following:\n",
+  "A": "Description of what is to be accomplished",
+  "B": "A measureable target",
+  "C": "A projected completion date",
+  "D": "A description of how the problem will be solved",
+  "Answer": "D"
+ },
+ {
+  "Questions": "Who is the person who typically authorizes the project team to work on the project?",
+  "A": "Project Leader",
+  "B": "Project Sponsor",
+  "C": "Process Owner",
+  "D": "None of the above",
+  "Answer": "B"
+ },
+ {
+  "Questions": "What is the output of Define phase ",
+  "A": "Project Charter",
+  "B": "Baseline",
+  "C": "Root Causes",
+  "D": "Approved Project Charter",
+  "Answer": "D"
+ },
+ {
+  "Questions": "How often should Toll gate reviews be conducted on Six Sigma projects?",
+  "A": "Never",
+  "B": "At the end of the project",
+  "C": "At the end of each phase",
+  "D": "At every meeting of the team members",
+  "Answer": "C"
+ },
+ {
+  "Questions": "An Incoming quality Engineer randomly selects 5% of the parts from a lot of 500 Pieces.What type of a sampling technique he \/she has used here?",
+  "A": "Simple Random Sampling",
+  "B": "Sequential Sampling",
+  "C": "Stratified Random Sampling",
+  "D": "Subgroup Sequential Sampling",
+  "Answer": "A"
+ },
+ {
+  
+  "Questions": "The primary metric Y used in a project is the time it takes to fulfill an order. What would be the appropriate type of data for this metric?",
+  "A": "Binary",
+  "B": "Continuous",
+  "C": "Nominal",
+  "D": "Ordinal",
+  "Answer": "B"
+ }
+]

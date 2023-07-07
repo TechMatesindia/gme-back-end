@@ -1,0 +1,368 @@
+[
+ {
+  "Sr. No.": 1,
+  "Questions": "What is the main objective of hypothesis testing in Six Sigma? ",
+  "A": "To identify potential root causes",
+  "B": "To estimate process capability",
+  "C": "To determine the statistical significance of data ",
+  "D": "To validate improvement efforts",
+  "Answer": "C",
+  "Phase": "Analyze",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 2,
+  "Questions": "Which of the following is a tool used to prioritize potential root causes in Six Sigma? ",
+  "A": "  Control chart ",
+  "B": "  Pareto chart ",
+  "C": "  Scatter plot ",
+  "D": "Time series plot",
+  "Answer": "B",
+  "Phase": "Analyze",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 3,
+  "Questions": "Which of the following is a technique used to quantify the relationship between two variables in Six Sigma? ",
+  "A": "  Regression analysis ",
+  "B": "  Failure Mode and Effects Analysis (FMEA) ",
+  "C": "  Design of Experiments (DOE) ",
+  "D": "  Cause and Effect diagram",
+  "Answer": "A",
+  "Phase": "Analyze",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 4,
+  "Questions": "What is the goal of the Analyze phase in the DMAIC methodology of Six Sigma? ",
+  "A": "  To determine the root causes of process variation ",
+  "B": "  To define the problem and establish project goals ",
+  "C": "  To identify potential improvement opportunities ",
+  "D": "  To monitor and sustain process improvements",
+  "Answer": "A",
+  "Phase": "Analyze",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 5,
+  "Questions": "Which of the following is a tool used to identify and remove potential sources of defects in Six Sigma? ",
+  "A": "  Run chart",
+  "B": "  Control chart ",
+  "C": "  Scatter plot ",
+  "D": "  Failure Mode and Effects Analysis (FMEA) ",
+  "Answer": "D",
+  "Phase": "Analyze",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 6,
+  "Questions": "What is the primary purpose of a Cause and Effect diagram in Six Sigma? ",
+  "A": "  To identify potential improvement opportunities",
+  "B": "   To visualize process variation over time ",
+  "C": "  To calculate process cycle time ",
+  "D": "  To identify and categorize potential causes of a problem",
+  "Answer": "D",
+  "Phase": "Analyze",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 7,
+  "Questions": "What is the primary purpose of a Scatter plot in Six Sigma? ",
+  "A": "  To monitor process stability and detect special causes of variation improvement opportunities ",
+  "B": "  To visualize the relationship between two variables ",
+  "C": "  To identify and prioritize",
+  "D": "  To estimate process capability",
+  "Answer": "B",
+  "Phase": "Analyze",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 8,
+  "Questions": "Which of the following is a tool used to identify potential failure modes and their effects in Six Sigma? ",
+  "A": "  Control chart ",
+  "B": "  Pareto chart ",
+  "C": "  Failure Mode and Effects Analysis (FMEA) ",
+  "D": "  Cause and Effect diagram",
+  "Answer": "C",
+  "Phase": "Analyze",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 9,
+  "Questions": "A Fishbone diagram is also known as:",
+  "A": "  Ishikawa diagram",
+  "B": "  Pareto diagram",
+  "C": "  Scatter plot diagram",
+  "D": "  Control chart diagram",
+  "Answer": "A",
+  "Phase": "Analyze",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 10,
+  "Questions": "What is the primary focus of the Analyze phase in DMAIC? ",
+  "A": "  Identifying and prioritizing improvement opportunities",
+  "B": "   Measuring the current process performance ",
+  "C": "  Collecting and analyzing data to identify root causes of variation",
+  "D": "   Implementing process controls to sustain improvements",
+  "Answer": "C",
+  "Phase": "Analyze",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 11,
+  "Questions": "What is the purpose of a Fishbone diagram? ",
+  "A": "  To prioritize improvement opportunities based on impact and feasibility ",
+  "B": "  To visually identify and categorize potential causes of a problem ",
+  "C": "  To monitor and control process performance over time ",
+  "D": "  To calculate process capability indices (Cp and Cpk)",
+  "Answer": "B",
+  "Phase": "Analyze",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 12,
+  "Questions": "What is the expected output of the Cause & Effect diagram?",
+  "A": "Problem Statement",
+  "B": "Potential Causes",
+  "C": "Root Causes",
+  "D": "Problem Solution",
+  "Answer": "B",
+  "Phase": "Analyze",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 13,
+  "Questions": "C & E diagram typically uses the 6 M's as the major categories. Which of the following is usually NOT one of the 6 M's?",
+  "A": "Method",
+  "B": "Material",
+  "C": "Machine",
+  "D": "Margins",
+  "Answer": "D",
+  "Phase": "Analyze",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 14,
+  "Questions": "In a 5 Whys analysis technique, how many why's need to be asked in order to arrive at the root cause?",
+  "A": "No need to ask why's",
+  "B": "Ask why's exactly 5 times",
+  "C": "Could be any number of times",
+  "D": "None of the above",
+  "Answer": "C",
+  "Phase": "Analyze",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 15,
+  "Questions": "What is the typical value of alpha used for hypothesis testing?",
+  "A": 0,
+  "B": 0.05,
+  "C": 0.5,
+  "D": 1,
+  "Answer": "B",
+  "Phase": "Analyze",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 16,
+  "Questions": "If the significance level (alpha) is set at 0.10, what is the confidence level for this test?",
+  "A": 0.05,
+  "B": 0.1,
+  "C": 0.9,
+  "D": 0.95,
+  "Answer": "C",
+  "Phase": "Analyze",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 17,
+  "Questions": "For a given hypothesis test if alpha = 0.10 and beta = 0.20, what is the power of the test?",
+  "A": 0.1,
+  "B": 0.2,
+  "C": 0.8,
+  "D": 0.9,
+  "Answer": "C",
+  "Phase": "Analyze",
+  "Difficulty level": "Difficult"
+ },
+ {
+  "Sr. No.": 18,
+  "Questions": "Mileage of 10 cars was tested with \"Normal Petrol\" and then milage of the same cars was tested with \"Speed Petrol\". We want to check if the average mileage of cars with Speed petrol is higher than the average mileage with Normal pertol.\nWhich statistical test you will recommend to test the same :",
+  "A": "2 Sample t test",
+  "B": "2-Sample Standard Deviation",
+  "C": "Regression",
+  "D": "Paired t test",
+  "Answer": "D",
+  "Phase": "Analyze",
+  "Difficulty level": "Difficult"
+ },
+ {
+  "Sr. No.": 19,
+  "Questions": "Mileage of 10 cars was tested with \"Normal Petrol\" and then milage of the same cars was tested with \"Speed Petrol\". We want to check if the average mileage of cars with Speed petrol is higher than the average mileage with Normal pertol.\nWhat whould be the alternate hypothesis for the same :",
+  "A": "μ Speed Petrol =  μ Normal Petrol",
+  "B": "μ Speed Petrol <  μ Normal Petrol",
+  "C": "μ Speed Petrol > μ Normal Petrol",
+  "D": "None of the above",
+  "Answer": "C",
+  "Phase": "Analyze",
+  "Difficulty level": "Difficult"
+ },
+ {
+  "Sr. No.": 20,
+  "Questions": "Which of the following statement is correct  : ",
+  "A": "Correlation confirms Causation",
+  "B": "Correlation implies Causation",
+  "C": "Correlation does not confirm Causation",
+  "D": "None of the above",
+  "Answer": "C",
+  "Phase": "Analyze",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 21,
+  "Questions": "Which of the following is usually called the consumer's risk?",
+  "A": "alpha",
+  "B": "beta",
+  "C": "delta",
+  "D": "standard deviation",
+  "Answer": "B",
+  "Phase": "Analyze",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 22,
+  "Questions": "80:20 Principle is related to ",
+  "A": "FMEA",
+  "B": "Cause and Effect Diagram",
+  "C": "Pareto Chart",
+  "D": "Scatter Diagram",
+  "Answer": "C",
+  "Phase": "Analyze",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 23,
+  "Questions": "When performing a normality test, we found that the p-value was 0.108. Which of the following can you conclude from this information?",
+  "A": "Data follows a normal distribution",
+  "B": "Data does not follow a normal distribution",
+  "C": "Data follows a uniform distribution",
+  "D": "Data does not follow a uniform distribution",
+  "Answer": "A",
+  "Phase": "Analyze",
+  "Difficulty level": "Difficult"
+ },
+ {
+  "Sr. No.": 24,
+  "Questions": "What is the purpose of conducting a correlation analysis in the Analyze phase?",
+  "A": "Identify potential risks and issues in the project",
+  "B": "Determine the statistical significance of a process improvement",
+  "C": "Analyze the strength of linear relationship between two variables",
+  "D": "Develop a control plan for process monitoring",
+  "Answer": "C",
+  "Phase": "Analyze",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 25,
+  "Questions": "Which statistical test is commonly used to compare means between two groups in the Analyze phase?",
+  "A": "Chi-square test",
+  "B": "t-test",
+  "C": "ANOVA",
+  "D": "All of the above",
+  "Answer": "B",
+  "Phase": "Analyze",
+  "Difficulty level": "Difficult"
+ },
+ {
+  "Sr. No.": 26,
+  "Questions": "The Severity , Occurance and Detection values for three failure modes are shown below. Which one you will select for the Project out of these 3 cases ?\ni) S = 10, O = 3, D = 5\nii) S = 3, O = 5, D = 10\niii) S = 5, O = 3, D = 10",
+  "A": "i) ",
+  "B": "ii) ",
+  "C": "iii) ",
+  "D": "All are equally important so can choose any of these.",
+  "Answer": "A",
+  "Phase": "Analyze",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 27,
+  "Questions": "A typical Green Belt project has how many primary metrics?",
+  "A": "zero",
+  "B": "one",
+  "C": "two",
+  "D": "more than two",
+  "Answer": "B",
+  "Phase": "Analyze",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 28,
+  "Questions": "Which of the following would be a valid null hypothesis for a checking if the average salary of a company is greater than 100K?",
+  "A": "Mu = 100",
+  "B": "Mu > 100",
+  "C": "Xbar = 100",
+  "D": "Xbar > 100",
+  "Answer": "A",
+  "Phase": "Analyze",
+  "Difficulty level": "Difficult"
+ },
+ {
+  "Sr. No.": 29,
+  "Questions": "The correlation coefficient between two sets of variables is\n r = - 0.983. What is the appropriate inference : ",
+  "A": "The variables have direct\/positive correlation",
+  "B": "The variables have weak correlation",
+  "C": "The variables have a very Strong correlation",
+  "D": "The variables have no correlation",
+  "Answer": "C",
+  "Phase": "Analyze",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 30,
+  "Questions": "What hypothesis test will you use to compare the defectives between the old software and the new software?",
+  "A": "1-sample t",
+  "B": "2-sample t",
+  "C": "ANOVA",
+  "D": "2-proportion test",
+  "Answer": "D",
+  "Phase": "Analyze",
+  "Difficulty level": "Difficult"
+ }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

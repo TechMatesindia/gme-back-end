@@ -1,0 +1,134 @@
+[
+ {
+  "Sr. No.": 1,
+  "Questions": "Which of these equation is most applicable in Business,  in a very competitve market like we have today in most of the countries ?",
+  "A": "Cost + Profit = Price",
+  "B": "Price - Cost = Profit",
+  "C": "Price + Profit = Cost",
+  "D": "Price + Cost = Profit",
+  "Answer": "B",
+  "Phase": "Introduction",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 2,
+  "Questions": "A company is facing challenge of high rejection rate for one their leading prodct. Which of the following methodoly is most applicable to solve this problem :",
+  "A": "Just Do it",
+  "B": "Lean",
+  "C": "Six Sigma DMAIC",
+  "D": "Six Sigma DMADV",
+  "Answer": "C",
+  "Phase": "Introduction",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 3,
+  "Questions": "According to the new business reality, what is the best way to increase profits?",
+  "A": "Increase price",
+  "B": "Reduce price",
+  "C": "Increase cost",
+  "D": "Reduce costs",
+  "Answer": "D",
+  "Phase": "Introduction",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 4,
+  "Questions": "Lean Six Sigma Projects can be selected from",
+  "A": "Voice of Customer",
+  "B": "Voice of Business",
+  "C": "Voice of Process",
+  "D": "All of the above",
+  "Answer": "D",
+  "Phase": "Introduction",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 5,
+  "Questions": "Which of the 8 wastages defined in Lean , is considered to be the most deadly waste ?",
+  "A": "Waiting",
+  "B": "Excess Inventory",
+  "C": "Overproduction",
+  "D": "unutilized employee skills",
+  "Answer": "C",
+  "Phase": "Introduction",
+  "Difficulty level": "Difficult"
+ },
+ {
+  "Sr. No.": 6,
+  "Questions": "Which methodology should be used to develop a new product or new process ",
+  "A": "Lean",
+  "B": "Six Sigma DMAIC",
+  "C": "Six Sigma DMADV",
+  "D": "Any of the above can be used",
+  "Answer": "C",
+  "Phase": "Introduction",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 7,
+  "Questions": "Value added\/ Non value added in a process,  is decideded keeping whose perspective in mind ? ",
+  "A": "Black Belt",
+  "B": "Project Leader",
+  "C": "Sponsor",
+  "D": "Customer",
+  "Answer": "D",
+  "Phase": "Introduction",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 8,
+  "Questions": "\"Who\" is considered as the \"Father of Six Sigma\" and he was from which organization ?",
+  "A": "Jack Welch, Motorola",
+  "B": " Jack welch , GE",
+  "C": "Bill Smith , GE",
+  "D": "Bill Smith , Motorola",
+  "Answer": "D",
+  "Phase": "Introduction",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 9,
+  "Questions": "Which Lean Six Sigma methodology focuses on eliminating waste and improving flow?",
+  "A": "DMAIC",
+  "B": "DFSS",
+  "C": "Lean",
+  "D": "Control",
+  "Answer": "C",
+  "Phase": "Introduction",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 10,
+  "Questions": "Which methodology should be used to attack a problem when we are looking to make a breakthrough improvement in performance for an existing process and the root causes and\/or solution is not known?",
+  "A": "DMAIC",
+  "B": "DFSS",
+  "C": "Lean",
+  "D": "Control",
+  "Answer": "A",
+  "Phase": "Introduction",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 11,
+  "Questions": "A company has several small sized problems and a few mid to large size problems. Which methodology would be most appropriate for solving the small-sized problems :",
+  "A": "Project Management",
+  "B": "Six Sigma DMAIC",
+  "C": "Six Sigma DFSS",
+  "D": "Kaizen",
+  "Answer": "D",
+  "Phase": "Introduction",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 12,
+  "Questions": "ABC Bank is working on reducing their Customer complaints resolution time from 72 hrs to 24 hrs ( for 90% of the complaints). Which of the following methodology should they use to solve this problem :",
+  "A": "Project Management",
+  "B": "Six Sigma DMAIC",
+  "C": "Six Sigma DFSS",
+  "D": "Lean",
+  "Answer": "D",
+  "Phase": "Introduction",
+  "Difficulty level": "Medium"
+ }
+]

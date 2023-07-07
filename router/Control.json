@@ -1,0 +1,222 @@
+[
+ {
+  "Sr. No.": 1,
+  "Questions": "What is the primary purpose of the Control phase in the DMAIC methodology of Six Sigma?",
+  "A": "   To monitor and sustain process improvements ",
+  "B": "  To identify and validate potential improvement opportunities ",
+  "C": "  To measure and analyze process performance ",
+  "D": "  To define the problem and establish project goals",
+  "Answer": "A",
+  "Phase": "Control",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 2,
+  "Questions": "What is the primary purpose of a Control plan in Six Sigma? ",
+  "A": "  To monitor and sustain process improvements ",
+  "B": "  To identify and validate potential improvement opportunities ",
+  "C": "  To measure and analyze process performance ",
+  "D": "  To define the problem and establish project goals",
+  "Answer": "A",
+  "Phase": "Control",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 3,
+  "Questions": "What is the purpose of a control chart?",
+  "A": "To measure process capability",
+  "B": "To identify sources of variation",
+  "C": "To monitor process stability over time",
+  "D": "To prioritize improvement opportunities",
+  "Answer": "C",
+  "Phase": "Control",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 4,
+  "Questions": "Which type of variation is considered acceptable and inherent to the process? ",
+  "A": "  Special cause variation ",
+  "B": "  Random variation ",
+  "C": "  Common cause variation ",
+  "D": "  Assignable cause variation",
+  "Answer": "C",
+  "Phase": "Control",
+  "Difficulty level": "Difficult"
+ },
+ {
+  "Sr. No.": 5,
+  "Questions": "Which tool is used to track the performance of a process over time and detect any special cause variation? ",
+  "A": "  Pareto chart ",
+  "B": "  Control chart ",
+  "C": "  Scatter plot ",
+  "D": "  Process flowchart",
+  "Answer": "B",
+  "Phase": "Control",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 6,
+  "Questions": "What is the best form of control?",
+  "A": "Verbal instruction",
+  "B": "Standard Operating Procedure",
+  "C": "Statistical Process Control",
+  "D": "Poka-Yoke ",
+  "Answer": "D",
+  "Phase": "Control",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 7,
+  "Questions": "Control limits for a process , are derived from :",
+  "A": "Voice of Customer",
+  "B": "Voice of Business",
+  "C": "Voice of Process",
+  "D": "Voice of Employees",
+  "Answer": "C",
+  "Phase": "Control",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 8,
+  "Questions": "Which control chart will you use for monitoring the viscosity of a chemical where we collect one data point every day?",
+  "A": "I-MR Chart",
+  "B": "Xbar-R Chart",
+  "C": "Xbar-S Chart",
+  "D": "P Chart",
+  "Answer": "A",
+  "Phase": "Control",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 9,
+  "Questions": "Which control chart will you use for monitoring the dimension of a part where the subgroup size is 5? ",
+  "A": "I-MR Chart",
+  "B": "Xbar-R Chart",
+  "C": "Xbar-S Chart",
+  "D": "P Chart",
+  "Answer": "B",
+  "Phase": "Control",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 10,
+  "Questions": "Which control chart will you use for monitoring the amount of water  (measured in ml) in a water bottle where the subgroup size is 20? ",
+  "A": "I-MR Chart",
+  "B": "Xbar-R Chart",
+  "C": "Xbar-S Chart",
+  "D": "P Chart",
+  "Answer": "C",
+  "Phase": "Control",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 11,
+  "Questions": "Which control chart will you use for monitoring the number of defectives in a process with subgroup size changing every day?  ",
+  "A": "I-MR Chart",
+  "B": "Xbar-R Chart",
+  "C": "Xbar-S Chart",
+  "D": "P Chart",
+  "Answer": "D",
+  "Phase": "Control",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 12,
+  "Questions": "Long term sustenance of a project happens in which phase of DMAIC?",
+  "A": "Define",
+  "B": "Analyze",
+  "C": "Improve",
+  "D": "Control",
+  "Answer": "D",
+  "Phase": "Control",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 13,
+  "Questions": "The primary purpose of Statistical Process Control (SPC) is to",
+  "A": "Identify if a process has common causes",
+  "B": "Check if a process has variation",
+  "C": "Distinguish between common causes and special causes",
+  "D": "All of the above",
+  "Answer": "C",
+  "Phase": "Control",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 14,
+  "Questions": "Which of the following is the best method of Poka-Yoke",
+  "A": "Detection",
+  "B": "Elimination",
+  "C": "Facilitation",
+  "D": "Mitigation",
+  "Answer": "B",
+  "Phase": "Control",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 15,
+  "Questions": "Which of the following is NOT a part of the Control phase?",
+  "A": "Creating a Control Plan",
+  "B": "Handoff meeting with the process owner",
+  "C": "Optimizing the Solution",
+  "D": "Identifying Best Practices and Replication opportunities",
+  "Answer": "C",
+  "Phase": "Control",
+  "Difficulty level": "Difficult"
+ },
+ {
+  "Sr. No.": 16,
+  "Questions": "The primary objective of a control plan is which of the following?\ni) Monitor Xs\nii) Control Xs\niii) Monitor Ys\niv) Control Ys",
+  "A": "Only i)",
+  "B": "Only iii)",
+  "C": "ii) and iii)",
+  "D": "i) and iv)",
+  "Answer": "C",
+  "Phase": "Control",
+  "Difficulty level": "Difficult"
+ },
+ {
+  "Sr. No.": 17,
+  "Questions": "Most of the Tasks in the control plan should be owned by",
+  "A": "Project Leader",
+  "B": "Project Sponsor",
+  "C": "Process Owner",
+  "D": "Project Champion",
+  "Answer": "C",
+  "Phase": "Control",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 18,
+  "Questions": "Leveraging of a project at the end of the project implies which of the following?",
+  "A": "Transfer the project to the project sponsor",
+  "B": "Transfer the project to the process owner",
+  "C": "Enable documentation of the project in one's computer",
+  "D": "Enable replication of the project in other areas of the company",
+  "Answer": "D",
+  "Phase": "Control",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 19,
+  "Questions": "What is the difference in the financial benefits claimed at the end of the project vs. what was computed in the Define phase of the project?",
+  "A": "Both the benefits calculated are the same",
+  "B": "The benefis calculated at the end is more realistic since we have pilot validation results",
+  "C": "The benefits calculated at the start is more realistic since it may include sponsor objectives.",
+  "D": "None of the above",
+  "Answer": "B",
+  "Phase": "Control",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 20,
+  "Questions": "In a Car manufacturing company , total number of units produced vs the daily target, is displayed in the Shop floor. This is  an example of : ",
+  "A": "Visual Control",
+  "B": "Poka Yoke",
+  "C": "Kaizen",
+  "D": "Value Stream Mapping",
+  "Answer": "A",
+  "Phase": "Control",
+  "Difficulty level": "Easy"
+ }
+]

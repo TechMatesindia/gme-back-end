@@ -1,0 +1,222 @@
+[
+ {
+  "Sr. No.": 1,
+  "Questions": "Which of the following is NOT the objective of the brainstorming session while creating ideas ?",
+  "A": "Generate as many ideas as possible",
+  "B": "Build on each other's ideas",
+  "C": "Encourage wild and creative ideas",
+  "D": "Critic ideas so that only the best ones make the list",
+  "Answer": "D",
+  "Phase": "Improve",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 2,
+  "Questions": "What is the primary purpose of the Improve phase in the DMAIC methodology of Six Sigma? ",
+  "A": "  To define the problem and establish project goals ",
+  "B": "  To identify potential improvement opportunities ",
+  "C": "  To measure and analyze process performance ",
+  "D": "  To implement and verify process improvements",
+  "Answer": "D",
+  "Phase": "Improve",
+  "Difficulty level": "Difficult"
+ },
+ {
+  "Sr. No.": 3,
+  "Questions": "Which of the following is a technique used to optimize process performance in Six Sigma?",
+  "A": "  Design of Experiments (DOE) ",
+  "B": "  Cause and Effect diagram ",
+  "C": "  Failure Mode and Effects Analysis (FMEA) ",
+  "D": "  Control chart",
+  "Answer": "A",
+  "Phase": "Improve",
+  "Difficulty level": "Difficult"
+ },
+ {
+  "Sr. No.": 4,
+  "Questions": "What is the concept of \"kaizen\" in Lean?",
+  "A": "  Continuous improvement ",
+  "B": "  Waste elimination ",
+  "C": "  Standardization ",
+  "D": "  Pull system implementation",
+  "Answer": "A",
+  "Phase": "Improve",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 5,
+  "Questions": "Which approach you will use in a cluttered workplace ?",
+  "A": "  Kaizen",
+  "B": "  Jidoka",
+  "C": "  5S",
+  "D": "  Value Stream Mapping",
+  "Answer": "C",
+  "Phase": "Improve",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 6,
+  "Questions": "Which tool is used to prioritize improvement opportunities based on their impact and feasibility? ",
+  "A": "  Failure Mode and Effects Analysis (FMEA) ",
+  "B": "  Control chart ",
+  "C": "  Prioritization matrix ",
+  "D": "  Process map",
+  "Answer": "C",
+  "Phase": "Improve",
+  "Difficulty level": "Difficult"
+ },
+ {
+  "Sr. No.": 7,
+  "Questions": "The sources for generating ideas for solutions can come from which of the following?",
+  "A": "Benchmarking",
+  "B": "Analytical Thinking",
+  "C": "Creating Thinking",
+  "D": "All of the above",
+  "Answer": "D",
+  "Phase": "Improve",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 8,
+  "Questions": "A team has 16 ideas to prioritize and would like to use multi-voting to narrow the list. Typically, how many votes do each person in the team get for the first round of voting?",
+  "A": 16,
+  "B": 8,
+  "C": 4,
+  "D": 10,
+  "Answer": "B",
+  "Phase": "Improve",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 9,
+  "Questions": "Which of the following is NOT one of the criteria used to select solutions (in a solution selection matrix)?",
+  "A": "Acceptability of Solution",
+  "B": "Risk associated with the solution",
+  "C": "Time it takes to deploy the solution",
+  "D": "Cost of the Solution",
+  "Answer": "A",
+  "Phase": "Improve",
+  "Difficulty level": "Difficult"
+ },
+ {
+  "Sr. No.": 10,
+  "Questions": "Implementation plan can include which of the following elements?",
+  "A": "Communication Plan",
+  "B": "Project Plan",
+  "C": "Resource Plan",
+  "D": "All of the above",
+  "Answer": "D",
+  "Phase": "Improve",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 11,
+  "Questions": "Which tool is used to validate the effectiveness of improvement solutions through small-scale testing in the Improve phase? ",
+  "A": "Control chart",
+  "B": "Pilot study ",
+  "C": "Failure Mode and Effects Analysis (FMEA)",
+  "D": "Regression analysis",
+  "Answer": "B",
+  "Phase": "Improve",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 12,
+  "Questions": "In the Improve phase, what is the purpose of conducting a value stream analysis? ",
+  "A": "Identify potential sources of process variation ",
+  "B": "Optimize the process flow to eliminate waste and improve efficiency ",
+  "C": "Analyze the relationship between multiple variables",
+  "D": "Develop a control plan for process monitoring",
+  "Answer": "B",
+  "Phase": "Improve",
+  "Difficulty level": "Difficult"
+ },
+ {
+  "Sr. No.": 13,
+  "Questions": "What is the purpose of conducting a pilot study in the Improve phase? ",
+  "A": "Evaluate the effectiveness of improvement solutions",
+  "B": " Determine the statistical significance of process improvements",
+  "C": "Analyze the causes of process variation",
+  "D": "Develop a control plan for process monitoring",
+  "Answer": "A",
+  "Phase": "Improve",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 14,
+  "Questions": "Which tool is commonly used to prioritize and select improvement solutions in the Improve phase? ",
+  "A": "Control chart",
+  "B": "Fishbone diagram",
+  "C": "Failure Mode and Effects Analysis (FMEA)",
+  "D": "Solution selection matrix",
+  "Answer": "D",
+  "Phase": "Improve",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 15,
+  "Questions": "What is the primary goal of the Improve phase in Six Sigma?",
+  "A": "Identify potential sources of process variation ",
+  "B": "Optimize the process to achieve desired outcomes ",
+  "C": "Collect and analyze data to measure process performance ",
+  "D": "Define the project goals and objectives",
+  "Answer": "B",
+  "Phase": "Improve",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 16,
+  "Questions": "The primary difference between Kaizen and Kaizen Blitz is ?",
+  "A": "Tools used",
+  "B": "Quality of the results",
+  "C": "Duration of the event",
+  "D": "Management support",
+  "Answer": "C",
+  "Phase": "Improve",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 17,
+  "Questions": "What is the advantage of running a pilot : ",
+  "A": "It can help test the solution",
+  "B": "You don’t need to do full scale implementation if you run a pilot",
+  "C": "You can do the handover to the process owner if the pilot is successful",
+  "D": "None of the above",
+  "Answer": "A",
+  "Phase": "Improve",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 18,
+  "Questions": "Which of the following is Value added in Painting process : ",
+  "A": "Carrying a part to the painting area",
+  "B": "Painting the part",
+  "C": "Repairing a defective painting",
+  "D": "Painting a part ahead of the schedule",
+  "Answer": "B",
+  "Phase": "Improve",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 19,
+  "Questions": "Total Productive Maintenance requires the active involvement of which group of stakeholders?",
+  "A": "Customers",
+  "B": "Suppliers",
+  "C": "Investors",
+  "D": "Employees",
+  "Answer": "D",
+  "Phase": "Improve",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 20,
+  "Questions": "Bechmarking should usually be started where?",
+  "A": "Similar processes in other departments of the same company",
+  "B": "Competitors in similar lines of business",
+  "C": "Non-competitors in related industries",
+  "D": "Companies in totally unrelated industries",
+  "Answer": "A",
+  "Phase": "Improve",
+  "Difficulty level": "Medium"
+ }
+]
