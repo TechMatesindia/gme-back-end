@@ -264,6 +264,22 @@ router.get('/results/:id', async (req, res) => {
   }
 });
 
+router.post('/remaining/:id', async (req, res) => {
+  const id = req.params.id;
+  try {
+    const user = await User.findById(id);
+    if (!user) {
+      return res.status(404).json({ message: 'User not found' });
+    }
+    user.Remaining_attempt = 0;
+    await user.save();
+    res.status(200).json({ message: 'attempts set' });
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: 'Server error' });
+  }
+});
+
 
 
 
