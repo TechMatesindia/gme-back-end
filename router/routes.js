@@ -281,6 +281,24 @@ router.post('/remaining/:id', async (req, res) => {
 });
 
 
+router.post('/exams/:id', async (req, res) => {
+  const id = req.params.id;
+  try {
+    const user = await User.findById(id);
+    if (!user) {
+      return res.status(404).json({ message: 'User not found' });
+    }
+    user.exams = "six sigma belt exam"; 
+    user.Remaining_attempt = 1;
+    await user.save();
+    res.status(200).json({ message: 'exams set' });
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: 'Server error' });
+  }
+})
+
+
 
 
 
