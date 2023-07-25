@@ -108,24 +108,23 @@ router.get('/image/:userId', async (req, res) => {
 });
 
 
-
 const filePaths = [
   {
     path: path.join(__dirname, 'intro.json'),
-    questionsCount: 6,
+    questionsCount: 8,
     difficultyCount: {
-      easy: 2,
-      medium: 3,
-      hard: 1
+      easy: 4,
+      medium: 4,
+      hard: 0
     }
   },
   {
     path: path.join(__dirname, 'define.json'),
-    questionsCount: 8,
+    questionsCount: 20,
     difficultyCount: {
-      easy: 3,
-      medium: 4,
-      hard: 1
+      easy: 8,
+      medium: 9,
+      hard: 3
     }
   },
   {
@@ -133,35 +132,44 @@ const filePaths = [
     questionsCount: 8,
     difficultyCount: {
       easy: 4,
-      medium: 3,
-      hard: 1
+      medium: 1,
+      hard: 3
     }
   },
   {
     path: path.join(__dirname, 'measure.json'),
-    questionsCount: 9,
+    questionsCount: 26,
     difficultyCount: {
-      easy: 3,
-      medium: 4,
-      hard: 2
+      easy: 7,
+      medium: 15,
+      hard: 4
     }
   },
   {
     path: path.join(__dirname, 'Control.json'),
-    questionsCount: 8,
+    questionsCount: 10,
     difficultyCount: {
-      easy: 3,
+      easy: 4,
       medium: 4,
-      hard: 1
+      hard: 2
     }
   },
   {
     path: path.join(__dirname, 'Analyze.json'),
-    questionsCount: 11,
+    questionsCount: 20,
     difficultyCount: {
       easy: 4,
-      medium: 5,
-      hard: 2
+      medium: 11,
+      hard: 5
+    }
+  },
+  {
+    path: path.join(__dirname, 'lean.json'),
+    questionsCount: 8,
+    difficultyCount: {
+      easy: 4,
+      medium: 3,
+      hard: 1
     }
   },
 ];
@@ -177,13 +185,14 @@ filePaths.forEach(({ path: filePath, questionsCount }) => {
 
 
 router.get('/questions', (req, res) => {
- 
-    const totalQuestions = 50;
 
-    const shuffledQuestions = sampleSize(allQuestions, totalQuestions);
- 
+  const totalQuestions = 100;
+
+  const shuffledQuestions = sampleSize(allQuestions, totalQuestions);
+
   res.json(shuffledQuestions);
 });
+
 
 
 router.patch('/updateprofile/:id', upload.fields([{ name: 'image', maxCount: 1 }]), async (req, res) => {
