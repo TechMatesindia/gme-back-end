@@ -8,7 +8,7 @@
      "D": "Statistical Process Control",
      "Answer": "C",
      "Phase": "Control",
-     "Difficulty level": "E"
+     "Difficulty level": "Easy"
     },
     {
      "Sr. No.": 2,
@@ -19,7 +19,7 @@
      "D": "Poka-Yoke",
      "Answer": "D",
      "Phase": "Control",
-     "Difficulty level": "E"
+     "Difficulty level": "Easy"
     },
     {
      "Sr. No.": 3,
@@ -30,7 +30,7 @@
      "D": "All of the above",
      "Answer": "D",
      "Phase": "Control",
-     "Difficulty level": "M"
+     "Difficulty level": "Medium"
     },
     {
      "Sr. No.": 4,
@@ -41,7 +41,7 @@
      "D": "Different types of variation depending on the type of process",
      "Answer": "C",
      "Phase": "Control",
-     "Difficulty level": "M"
+     "Difficulty level": "Medium"
     },
     {
      "Sr. No.": 5,
@@ -52,7 +52,7 @@
      "D": "II",
      "Answer": "C",
      "Phase": "Control",
-     "Difficulty level": "D"
+     "Difficulty level": "Difficult"
     },
     {
      "Sr. No.": 6,
@@ -63,7 +63,7 @@
      "D": "U Chart",
      "Answer": "A",
      "Phase": "Control",
-     "Difficulty level": "E"
+     "Difficulty level": "Easy"
     },
     {
      "Sr. No.": 7,
@@ -74,7 +74,7 @@
      "D": "Defective Data follows Binomial Distribution",
      "Answer": "B",
      "Phase": "Control",
-     "Difficulty level": "M"
+     "Difficulty level": "Medium"
     },
     {
      "Sr. No.": 8,
@@ -85,7 +85,7 @@
      "D": "U Chart",
      "Answer": "D",
      "Phase": "Control",
-     "Difficulty level": "M"
+     "Difficulty level": "Medium"
     },
     {
      "Sr. No.": 9,
@@ -96,7 +96,7 @@
      "D": "Perform Measurement System Analysis",
      "Answer": "D",
      "Phase": "Control",
-     "Difficulty level": "E"
+     "Difficulty level": "Easy"
     },
     {
      "Sr. No.": 10,
@@ -107,7 +107,7 @@
      "D": "I, III, IV",
      "Answer": "C",
      "Phase": "Control",
-     "Difficulty level": "D"
+     "Difficulty level": "Difficult"
     },
     {
      "Sr. No.": 11,
@@ -118,7 +118,7 @@
      "D": "All of the above",
      "Answer": "A",
      "Phase": "Control",
-     "Difficulty level": "M"
+     "Difficulty level": "Medium"
     },
     {
      "Sr. No.": 12,
@@ -129,7 +129,7 @@
      "D": "Eliminating audit and inspection",
      "Answer": "B",
      "Phase": "Control",
-     "Difficulty level": "M"
+     "Difficulty level": "Medium"
     },
     {
      "Sr. No.": 13,
@@ -140,7 +140,7 @@
      "D": "Champion, Process Owner",
      "Answer": "B",
      "Phase": "Control",
-     "Difficulty level": "M"
+     "Difficulty level": "Medium"
     },
     {
      "Sr. No.": 14,
@@ -151,7 +151,7 @@
      "D": "Both 'a' and 'b'",
      "Answer": "D",
      "Phase": "Control",
-     "Difficulty level": "M"
+     "Difficulty level": "Medium"
     },
     {
      "Sr. No.": 15,
@@ -162,7 +162,7 @@
      "D": "Identifying Best Practices and Replication opportunities",
      "Answer": "C",
      "Phase": "Control",
-     "Difficulty level": "E"
+     "Difficulty level": "Easy"
     },
     {
      "Sr. No.": 16,
@@ -173,7 +173,7 @@
      "D": "Statistical Process Control",
      "Answer": "C",
      "Phase": "Control",
-     "Difficulty level": "E"
+     "Difficulty level": "Easy"
     },
     {
      "Sr. No.": 17,
@@ -184,7 +184,7 @@
      "D": "Project Lead",
      "Answer": "C",
      "Phase": "Control",
-     "Difficulty level": "E"
+     "Difficulty level": "Easy"
     },
     {
      "Sr. No.": 18,
@@ -195,7 +195,7 @@
      "D": "Voice of Employees",
      "Answer": "C",
      "Phase": "Control",
-     "Difficulty level": "E"
+     "Difficulty level": "Easy"
     },
     {
      "Sr. No.": 19,
@@ -206,7 +206,7 @@
      "D": "P Chart",
      "Answer": "C",
      "Phase": "Control",
-     "Difficulty level": "M"
+     "Difficulty level": "Medium"
     },
     {
      "Sr. No.": 20,
@@ -217,7 +217,7 @@
      "D": "All of the above",
      "Answer": "C",
      "Phase": "Control",
-     "Difficulty level": "D"
+     "Difficulty level": "Difficult"
     },
     {
      "Sr. No.": 21,
@@ -228,7 +228,7 @@
      "D": "i) and iv)",
      "Answer": "C",
      "Phase": "Control",
-     "Difficulty level": "D"
+     "Difficulty level": "Difficult"
     },
     {
      "Sr. No.": 22,
@@ -239,6 +239,6 @@
      "D": "Enable replication of the project in other areas of the company",
      "Answer": "D",
      "Phase": "Control",
-     "Difficulty level": "E"
+     "Difficulty level": "Easy"
     }
    ]
