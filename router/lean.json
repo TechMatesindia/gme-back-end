@@ -1,0 +1,222 @@
+[
+    {
+     "Sr. No.": 1,
+     "Questions": "The 8th waste in Lean is",
+     "A": "Motion",
+     "B": "Inventory",
+     "C": "Underutilized Human Potential",
+     "D": "Over Processing",
+     "Answer": "C",
+     "Phase": "Lean",
+     "Difficulty level": "Easy"
+    },
+    {
+     "Sr. No.": 2,
+     "Questions": "Hiring process in an organization needs a hiring supervisor to send an approval email with an excel attachment for approvals from 3 levels up. Post the email approval, the hiring supervisor creates the hiring request on an online recruitment portal and requires approval from the same 3 levels up. This is an example of:",
+     "A": "Non Value Added Process Steps",
+     "B": "Low Sigma Level Process",
+     "C": "A diligent hiring supervisor",
+     "D": "Value Added Process Steps",
+     "Answer": "A",
+     "Phase": "Lean",
+     "Difficulty level": "Difficult"
+    },
+    {
+     "Sr. No.": 3,
+     "Questions": "Keeping items in their place for easy access and retrieval related to which S in the 5S tool:",
+     "A": "Straighten\/Set in Order\/Stabilize",
+     "B": "Shine",
+     "C": "Standardize",
+     "D": "Sustain",
+     "Answer": "A",
+     "Phase": "Lean",
+     "Difficulty level": "Easy"
+    },
+    {
+     "Sr. No.": 4,
+     "Questions": "A tool that requires minimal investment, involves making small improvements on a continual basis is:",
+     "A": "Pareto",
+     "B": "Force Field Analysis",
+     "C": "Kaizen",
+     "D": "Planned Maintenance",
+     "Answer": "C",
+     "Phase": "Lean",
+     "Difficulty level": "Easy"
+    },
+    {
+     "Sr. No.": 5,
+     "Questions": "Kaizen is used for making continuous improvements when",
+     "A": "The problem is small scale",
+     "B": "The cause of the problem is known",
+     "C": "There is a need for quick improvement",
+     "D": "All of the above",
+     "Answer": "D",
+     "Phase": "Lean",
+     "Difficulty level": "Medium"
+    },
+    {
+     "Sr. No.": 6,
+     "Questions": "On a factory floor, display of total number of units produced vs the daily target is an example of:",
+     "A": "Visual Control",
+     "B": "Poka Yoke",
+     "C": "Kaizan",
+     "D": "Kanban",
+     "Answer": "A",
+     "Phase": "Lean",
+     "Difficulty level": "Easy"
+    },
+    {
+     "Sr. No.": 7,
+     "Questions": "What is the best way to deploy Lean in an organization",
+     "A": "Apply selected lean techniques",
+     "B": "Apply to a system and hope to generate a philisophy",
+     "C": "Use lean tools in isolated areas",
+     "D": "Take a value stream view to make improvements",
+     "Answer": "D",
+     "Phase": "Lean",
+     "Difficulty level": "Easy"
+    },
+    {
+     "Sr. No.": 8,
+     "Questions": "A system that controls \"just-in-time\" movement of parts to downstream activities is called?",
+     "A": "Kanban",
+     "B": "Kaizen",
+     "C": "Kaikaku",
+     "D": "Gemba",
+     "Answer": "A",
+     "Phase": "Lean",
+     "Difficulty level": "Easy"
+    },
+    {
+     "Sr. No.": 9,
+     "Questions": "Which of the following wastes are targeted by deploying Pull in Lean",
+     "A": "Waiting",
+     "B": "Overproduction",
+     "C": "Rework",
+     "D": "Motion",
+     "Answer": "B",
+     "Phase": "Lean",
+     "Difficulty level": "Easy"
+    },
+    {
+     "Sr. No.": 10,
+     "Questions": "Which of the following is not a Lean way of working?",
+     "A": "Flow",
+     "B": "Pull",
+     "C": "Push",
+     "D": "FIFO",
+     "Answer": "C",
+     "Phase": "Lean",
+     "Difficulty level": "Easy"
+    },
+    {
+     "Sr. No.": 11,
+     "Questions": "What would be most appropriate secondaty metric for a project of Inventory optimization ?",
+     "A": "Quality",
+     "B": "Revenue",
+     "C": "Availability",
+     "D": "All of the above",
+     "Answer": "C",
+     "Phase": "Lean",
+     "Difficulty level": "Medium"
+    },
+    {
+     "Sr. No.": 12,
+     "Questions": "What does Kaizen stand for?",
+     "A": "Small continuous improvement",
+     "B": "Large change for the better",
+     "C": "Organized workplace",
+     "D": "Signal to produce more ",
+     "Answer": "A",
+     "Phase": "Lean",
+     "Difficulty level": "Easy"
+    },
+    {
+     "Sr. No.": 13,
+     "Questions": "Which of the LEAN tool you will use first in a cluttered work place :",
+     "A": "SMED",
+     "B": "Kanban",
+     "C": "5S",
+     "D": "VSM",
+     "Answer": "C",
+     "Phase": "Lean",
+     "Difficulty level": "Medium"
+    },
+    {
+     "Sr. No.": 14,
+     "Questions": "Which of the 5S step helps in significant reduction of SEARCH TIME and Frustration in searching the item",
+     "A": "Set in Order",
+     "B": "Shine",
+     "C": "Standardize",
+     "D": "Sustain",
+     "Answer": "A",
+     "Phase": "Lean",
+     "Difficulty level": "Medium"
+    },
+    {
+     "Sr. No.": 15,
+     "Questions": "\"Quick Changeover\"  term is associated with which of the fllowing lean tools :",
+     "A": "5S",
+     "B": "Pull",
+     "C": "SMED",
+     "D": "Push",
+     "Answer": "C",
+     "Phase": "Lean",
+     "Difficulty level": "Easy"
+    },
+    {
+     "Sr. No.": 16,
+     "Questions": "In which of the LEAN tool , we \"Convert Internal activities to External Activities\" :",
+     "A": "5S",
+     "B": "SMED",
+     "C": "Kanban",
+     "D": "All of the above",
+     "Answer": "B",
+     "Phase": "Lean",
+     "Difficulty level": "Medium"
+    },
+    {
+     "Sr. No.": 17,
+     "Questions": "A tool that requires minimal investment, involves making small improvements on a continual basis is:",
+     "A": "Pareto",
+     "B": "Force Field Analysis",
+     "C": "Kaizen",
+     "D": "VSM",
+     "Answer": "C",
+     "Phase": "Lean",
+     "Difficulty level": "Medium"
+    },
+    {
+     "Sr. No.": 18,
+     "Questions": "In which of the LEAN tool , we Explicitly limit our WIP and Focus on Demand",
+     "A": "Push",
+     "B": "Pull",
+     "C": "5S",
+     "D": "SMED",
+     "Answer": "B",
+     "Phase": "Lean",
+     "Difficulty level": "Difficult"
+    },
+    {
+     "Sr. No.": 19,
+     "Questions": "The traditional TPM model consists of  __________as foundation and __________ supporting activities (also known as Pillars of TPM) :\n",
+     "A": "Visual Management , 5S",
+     "B": "5S , Eight",
+     "C": "Autonomous Maintenance , Eight",
+     "D": "5S , Autonomous Maintenance",
+     "Answer": "B",
+     "Phase": "Lean",
+     "Difficulty level": "Medium"
+    },
+    {
+     "Sr. No.": 20,
+     "Questions": "Which of the following pillar of TPM  is most associated with \"giving  operators greater “ownership” of their  equipment \" : ",
+     "A": "5S",
+     "B": "Quality Integration",
+     "C": "Autonomous Maintenance",
+     "D": "Planned Maintenance",
+     "Answer": "C",
+     "Phase": "Lean",
+     "Difficulty level": "Difficult"
+    }
+   ]
