@@ -9,7 +9,7 @@ const cors = require('cors');
 const multer = require('multer');
 dotenv.config({ path: './config.env' });
 const jwt = require('jsonwebtoken');
-router.use(cors({ origin: 'http://localhost:3000' }));
+router.use(cors({ origin: 'http://localhost:3000','http://13.51.204.30:3000/' }));
 const fs = require('fs');
 const path = require('path');
 const { sampleSize } = require('lodash');
