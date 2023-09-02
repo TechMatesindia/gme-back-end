@@ -111,20 +111,20 @@ router.get('/image/:userId', async (req, res) => {
 const filePaths = [
   {
     path: path.join(__dirname, 'intro.json'),
-    questionsCount: 8,
+    questionsCount: 6,
     difficultyCount: {
-      easy: 4,
-      medium: 4,
-      hard: 0
+      easy: 2,
+      medium: 3,
+      hard: 1
     }
   },
   {
     path: path.join(__dirname, 'define.json'),
-    questionsCount: 20,
+    questionsCount: 8,
     difficultyCount: {
-      easy: 8,
-      medium: 9,
-      hard: 3
+      easy: 3,
+      medium: 4,
+      hard: 1
     }
   },
   {
@@ -132,46 +132,46 @@ const filePaths = [
     questionsCount: 8,
     difficultyCount: {
       easy: 4,
-      medium: 1,
-      hard: 3
+      medium: 3,
+      hard: 1
     }
   },
   {
     path: path.join(__dirname, 'measure.json'),
-    questionsCount: 26,
+    questionsCount: 9,
     difficultyCount: {
-      easy: 7,
-      medium: 15,
-      hard: 4
-    }
-  },
-  {
-    path: path.join(__dirname, 'Control.json'),
-    questionsCount: 10,
-    difficultyCount: {
-      easy: 4,
+      easy: 3,
       medium: 4,
       hard: 2
     }
   },
   {
-    path: path.join(__dirname, 'Analyze.json'),
-    questionsCount: 20,
-    difficultyCount: {
-      easy: 4,
-      medium: 11,
-      hard: 5
-    }
-  },
-  {
-    path: path.join(__dirname, 'lean.json'),
+    path: path.join(__dirname, 'Control.json'),
     questionsCount: 8,
     difficultyCount: {
-      easy: 4,
-      medium: 3,
+      easy: 3,
+      medium: 4,
       hard: 1
     }
   },
+  {
+    path: path.join(__dirname, 'Analyze.json'),
+    questionsCount: 11,
+    difficultyCount: {
+      easy: 4,
+      medium: 5,
+      hard: 2
+    }
+  }
+  // {
+  //   path: path.join(__dirname, 'lean.json'),
+  //   questionsCount: 8,
+  //   difficultyCount: {
+  //     easy: 4,
+  //     medium: 3,
+  //     hard: 1
+  //   }
+  // },
 ];
 
 const allQuestions = [];
@@ -186,7 +186,7 @@ filePaths.forEach(({ path: filePath, questionsCount }) => {
 
 router.get('/questions', (req, res) => {
 
-  const totalQuestions = 100;
+  const totalQuestions = 50;
 
   const shuffledQuestions = sampleSize(allQuestions, totalQuestions);
 
