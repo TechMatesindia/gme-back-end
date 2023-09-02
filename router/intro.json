@@ -1,167 +1,134 @@
 [
-    {
-     "Sr. No.": 1,
-     "Questions": "What type of a map is usually used to show the interaction between departments and process steps?",
-     "A": "Yield Improvement",
-     "B": "Improved Customer Satisfaction",
-     "C": "Improved Speed of Delivery",
-     "D": "All of the above",
-     "Answer": "D",
-     "Phase": "Introduction",
-     "Difficulty level": "Medium"
-    },
-    {
-     "Sr. No.": 2,
-     "Questions": "A DMAIC project is usually initiated when",
-     "A": "The problem has a known solution",
-     "B": "The problem has a known cause",
-     "C": "The problem is chronic",
-     "D": "The problem is short lived",
-     "Answer": "C",
-     "Phase": "Introduction",
-     "Difficulty level": "Medium"
-    },
-    {
-     "Sr. No.": 3,
-     "Questions": "Who is credited as the father of Six Sigma",
-     "A": "Mikel Harry",
-     "B": "Bill Smith",
-     "C": "Larry Bossidy",
-     "D": "Jack Welch",
-     "Answer": "B",
-     "Phase": "Introduction",
-     "Difficulty level": "Easy"
-    },
-    {
-     "Sr. No.": 4,
-     "Questions": "A view of Balanced Scorecard can help:\ni) Provide a view of lagging indicators only\nii) Choose a project that is critical to the organization\niii) Understand the strategy of a company\niv) Understand which metrics are trending Red",
-     "A": "i, ii and iii",
-     "B": "ii, iii and iv",
-     "C": "i, iii and iv",
-     "D": "i, ii, iii and iv",
-     "Answer": "B",
-     "Phase": "Introduction",
-     "Difficulty level": "Medium"
-    },
-    {
-     "Sr. No.": 5,
-     "Questions": " ____________ focuses on defect reduction, whereas ___________ focuses on reduction of waste.",
-     "A": "Lean, Six Sigma",
-     "B": "Six Sigma, Lean",
-     "C": "Consumer, producer",
-     "D": "Producer, Consumer",
-     "Answer": "B",
-     "Phase": "Introduction",
-     "Difficulty level": "Medium"
-    },
-    {
-     "Sr. No.": 6,
-     "Questions": "Some of the Six Sigma tools that can be used to generate project ideas are:",
-     "A": "Hypothesis Testing, Statistical Process Control, Pilot Plan, SIPOC",
-     "B": "Benchmarking, Problem Definition Tree, Quality Functional Deployment, Balanced Scorecard",
-     "C": "Poka-Yoke, Control Charts, Visual Controls, Standard Operating Procedures",
-     "D": "Cause and Effect, Pareto Chart, Run Chart, VA\/NVA Analysis",
-     "Answer": "B",
-     "Phase": "Introduction",
-     "Difficulty level": "Medium"
-    },
-    {
-     "Sr. No.": 7,
-     "Questions": "Which of the following methods of collecting VOC is low on cost, promotes honest answers but doesn’t allow any further probing or opportunity for clarification:",
-     "A": "Telephone Surveys",
-     "B": "Focus Groups",
-     "C": "Email Surveys",
-     "D": "Face to Face Interviews",
-     "Answer": "C",
-     "Phase": "Introduction",
-     "Difficulty level": "Medium"
-    },
-    {
-     "Sr. No.": 8,
-     "Questions": "What is the new equation of the business",
-     "A": "Cost + Profit = Price",
-     "B": "Price - Cost = Profit",
-     "C": "Price + Profit = Cost",
-     "D": "Price + Cost = Profit",
-     "Answer": "B",
-     "Phase": "Introduction",
-     "Difficulty level": "Easy"
-    },
-    {
-     "Sr. No.": 9,
-     "Questions": "Who is considered as the father of Lean",
-     "A": "James Womack",
-     "B": "Shigeo Shingo",
-     "C": "Taiichi Ohno",
-     "D": "Dr. Juran",
-     "Answer": "C",
-     "Phase": "Introduction",
-     "Difficulty level": "Easy"
-    },
-    {
-     "Sr. No.": 10,
-     "Questions": "What is the primary metric (CTQ) on a value stream map",
-     "A": "Safety",
-     "B": "Quality",
-     "C": "Time",
-     "D": "Cost",
-     "Answer": "C",
-     "Phase": "Introduction",
-     "Difficulty level": "Easy"
-    },
-    {
-     "Sr. No.": 11,
-     "Questions": "A process consists of 4 steps with productivity  of : A) 80 units\/hour, B) 70 units\/hour, C) 50 units\/hour, D) 90 units\/hour. Identify the bottleneck step?",
-     "A": "A",
-     "B": "B",
-     "C": "C",
-     "D": "D",
-     "Answer": "C",
-     "Phase": "Introduction",
-     "Difficulty level": "Medium"
-    },
-    {
-     "Sr. No.": 12,
-     "Questions": "Which methodology should be used to attack a problem where you want to make a  breakthrough improvement and the existing process has been optimized but still not meeting customer expectations?",
-     "A": "PDCA",
-     "B": "DMAIC",
-     "C": "DMADV",
-     "D": "Just Do it",
-     "Answer": "C",
-     "Phase": "Introduction",
-     "Difficulty level": "Medium"
-    },
-    {
-     "Sr. No.": 13,
-     "Questions": "Which methodology should be used to attack a problem that is looking to make a small improvement in performance for an existing process and the root causes and\/or solution is known?",
-     "A": "PDCA",
-     "B": "DMAIC",
-     "C": "DMADV",
-     "D": "Just Do it",
-     "Answer": "D",
-     "Phase": "Introduction",
-     "Difficulty level": "Easy"
-    },
-    {
-     "Sr. No.": 14,
-     "Questions": "Which tool can be used to better understand customer needs as either \"basic\", \"performance\", or \"excitement\"?",
-     "A": "VOC",
-     "B": "SIPOC",
-     "C": "Decision Tree",
-     "D": "Kano Analysis",
-     "Answer": "D",
-     "Phase": "Introduction",
-     "Difficulty level": "Easy"
-    },
-    {
-     "Sr. No.": 15,
-     "Questions": "Which of the following categories of need best describe the following situation. \"Customer is dissatisfied if there is no one is coming over to attend him in the restaurant but is not excited if there is one\"",
-     "A": "Basic",
-     "B": "Performance",
-     "C": "Excitement",
-     "D": "Reverse",
-     "Answer": "A",
-     "Phase": "Introduction",
-     "Difficulty level": "Easy"
-    }
-   ]
+ {
+  "Sr. No.": 1,
+  "Questions": "Which of these equation is most applicable in Business,  in a very competitve market like we have today in most of the countries ?",
+  "A": "Cost + Profit = Price",
+  "B": "Price - Cost = Profit",
+  "C": "Price + Profit = Cost",
+  "D": "Price + Cost = Profit",
+  "Answer": "B",
+  "Phase": "Introduction",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 2,
+  "Questions": "A company is facing challenge of high rejection rate for one their leading prodct. Which of the following methodoly is most applicable to solve this problem :",
+  "A": "Just Do it",
+  "B": "Lean",
+  "C": "Six Sigma DMAIC",
+  "D": "Six Sigma DMADV",
+  "Answer": "C",
+  "Phase": "Introduction",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 3,
+  "Questions": "According to the new business reality, what is the best way to increase profits?",
+  "A": "Increase price",
+  "B": "Reduce price",
+  "C": "Increase cost",
+  "D": "Reduce costs",
+  "Answer": "D",
+  "Phase": "Introduction",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 4,
+  "Questions": "Lean Six Sigma Projects can be selected from",
+  "A": "Voice of Customer",
+  "B": "Voice of Business",
+  "C": "Voice of Process",
+  "D": "All of the above",
+  "Answer": "D",
+  "Phase": "Introduction",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 5,
+  "Questions": "Which of the 8 wastages defined in Lean , is considered to be the most deadly waste ?",
+  "A": "Waiting",
+  "B": "Excess Inventory",
+  "C": "Overproduction",
+  "D": "unutilized employee skills",
+  "Answer": "C",
+  "Phase": "Introduction",
+  "Difficulty level": "Difficult"
+ },
+ {
+  "Sr. No.": 6,
+  "Questions": "Which methodology should be used to develop a new product or new process ",
+  "A": "Lean",
+  "B": "Six Sigma DMAIC",
+  "C": "Six Sigma DMADV",
+  "D": "Any of the above can be used",
+  "Answer": "C",
+  "Phase": "Introduction",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 7,
+  "Questions": "Value added\/ Non value added in a process,  is decideded keeping whose perspective in mind ? ",
+  "A": "Black Belt",
+  "B": "Project Leader",
+  "C": "Sponsor",
+  "D": "Customer",
+  "Answer": "D",
+  "Phase": "Introduction",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 8,
+  "Questions": "\"Who\" is considered as the \"Father of Six Sigma\" and he was from which organization ?",
+  "A": "Jack Welch, Motorola",
+  "B": " Jack welch , GE",
+  "C": "Bill Smith , GE",
+  "D": "Bill Smith , Motorola",
+  "Answer": "D",
+  "Phase": "Introduction",
+  "Difficulty level": "Medium"
+ },
+ {
+  "Sr. No.": 9,
+  "Questions": "Which Lean Six Sigma methodology focuses on eliminating waste and improving flow?",
+  "A": "DMAIC",
+  "B": "DFSS",
+  "C": "Lean",
+  "D": "Control",
+  "Answer": "C",
+  "Phase": "Introduction",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 10,
+  "Questions": "Which methodology should be used to attack a problem when we are looking to make a breakthrough improvement in performance for an existing process and the root causes and\/or solution is not known?",
+  "A": "DMAIC",
+  "B": "DFSS",
+  "C": "Lean",
+  "D": "Control",
+  "Answer": "A",
+  "Phase": "Introduction",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 11,
+  "Questions": "Which methodology is most appropriate for a cluttered workplace?",
+  "A": "Project Management",
+  "B": "Six Sigma DMAIC",
+  "C": "Six Sigma DFSS",
+  "D": "Kaizen",
+  "Answer": "D",
+  "Phase": "Introduction",
+  "Difficulty level": "Easy"
+ },
+ {
+  "Sr. No.": 12,
+  "Questions": "ABC Bank is working on reducing their Customer complaints resolution time from 72 hrs to 24 hrs ( for 90% of the complaints). Which of the following methodology should they use to solve this problem :",
+  "A": "Project Management",
+  "B": "Six Sigma DMAIC",
+  "C": "Six Sigma DFSS",
+  "D": "Lean",
+  "Answer": "D",
+  "Phase": "Introduction",
+  "Difficulty level": "Medium"
+ }
+]
