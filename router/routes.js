@@ -194,6 +194,13 @@ router.get('/questions', (req, res) => {
 });
 
 
+router.get('/user-answers', (req, res) => {
+  const answeredQuestions = allQuestions.filter((question) => question.answered);
+
+  res.json(answeredQuestions);
+});
+
+
 
 router.patch('/updateprofile/:id', upload.fields([{ name: 'image', maxCount: 1 }]), async (req, res) => {
   const id = req.params.id;
